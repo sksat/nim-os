@@ -1,0 +1,2 @@
+proc main() {.exportc.} =
+  return
